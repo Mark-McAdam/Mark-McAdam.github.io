@@ -1724,7 +1724,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background-color: #444;
+			background-color: #445190;
 			box-shadow: inset 0px 0px 0px 1px #242424, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.2);
 		}
 
@@ -1922,6 +1922,7 @@ input, select, textarea {
 		}
 
 			.box.style1 h3 {
+				color: #445190
 				margin-bottom: 0.5em;
 			}
 
@@ -1974,11 +1975,16 @@ input, select, textarea {
 		}
 
 		.icon.featured {
-			color: #EA8A95;
+			color: #fbcebc;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
 		}
+
+		/* .icon.featured h3 {
+			color: #445190;
+
+		} */
 
 			.icon.featured:before {
 				font-size: 6em;
