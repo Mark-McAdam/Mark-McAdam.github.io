@@ -2463,5 +2463,5 @@ body {
   top: 0;
   left: 0;
   z-index: 0;
-  /* height: inherit; */
+  height: inherit;
 }
